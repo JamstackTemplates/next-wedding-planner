@@ -1,0 +1,22 @@
+{
+  "templateId": "next-wedding-planner",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "fullPage": false,
+  "captures": [
+    {
+      "mode": "light",
+      "sha256": "188977c04a739957f191a331cb6cd928ce19a5dd052262b10e3e6bf8caaaf080",
+      "file": "jamstacks/home-light.jpg",
+      "bytes": 159168
+    },
+    {
+      "mode": "dark",
+      "sha256": "4f2f819a566406d249c867437456e554135a4e9bdb79bc307872c75dffe3b4b5",
+      "file": "jamstacks/home-dark.jpg",
+      "bytes": 154187
+    }
+  ]
+}

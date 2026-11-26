@@ -1,0 +1,19 @@
+{
+  "name": "Romantic wedding planner",
+  "description": "An editorial, something-blue theme for wedding planners: four rhyme-named planning packages laid out as an invitation suite, a 2027 date book, real-wedding features with palettes and run-of-day ribbons, a planning timeline with a wedding-date countdown and a Jamstacks contact component for date enquiries.",
+  "tech": "next",
+  "type": "wedding",
+  "style": "planner",
+  "internal": false,
+  "components": [
+    "support-form"
+  ],
+  "configFile": "site.config.json",
+  "screenshots": {
+    "light": "jamstacks/home-light.jpg",
+    "dark": "jamstacks/home-dark.jpg",
+    "theme": {
+      "strategy": "media"
+    }
+  }
+}

@@ -1,7 +1,8 @@
 {
-  "name": "Jamstacks starter",
-  "description": "A neutral Next.js foundation for Jamstacks websites.",
-  "domain": "",
+  "name": "Something Blue Weddings",
+  "description": "Something Blue Weddings plans and runs Lowcountry weddings from a Charleston studio: four planning packages from elopements to full design, real weddings and a month-by-month planning timeline.",
+  "domain": "next-wedding-planner.jamstacks.net",
+  "timeZone": "America/New_York",
   "jamstacks": {
     "siteId": "",
     "cdnUrl": "https://cdn.jamstacks.net"

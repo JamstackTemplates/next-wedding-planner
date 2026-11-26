@@ -72,3 +72,14 @@ and Pages never import/read it. Keep site.config.json, the form and workflow out
 light/dark captures after a fresh normal build and run node --test jamstacks/config.test.mjs separately.
 Each new template needs its own business-led layout/fonts/art and OG image; do not ship the neutral
 starter as a final design. Remove `plan/` and `.claude/skills/` before publishing a gallery template once reviewed.
+
+## File ownership (Something Blue Weddings)
+
+- `content/date-book.ts`: yearly/monthly Saturday enquiry status, `saturdaysLeft`, notes and `lastReviewed` (most frequent owner edit).
+- `content/business.ts`: studio name, email, phone, East Bay Street studio note, map query, service area, hours and enquiry copy.
+- `content/packages.ts`, `content/inclusions.ts`, `content/add-ons.ts`: four planning packages, comparison rows and weekend enclosures.
+- `content/real-weddings.ts`, `content/settings.ts`: six editorial wedding features and setting filter options.
+- `content/timeline.ts`: eighteen-month planning stages and sample Saturday run of day.
+- `app/**/page.tsx`: route-specific headings, prose, Q&A and calls to action.
+- `components/art/`: bespoke inline SVG flat-lay, motifs and six copperplate vignettes.
+- `lib/validate-content.ts`, `lib/countdown.ts`, `lib/structured-data.ts`: content validators, Eastern Time countdown logic and `ProfessionalService` JSON-LD.
